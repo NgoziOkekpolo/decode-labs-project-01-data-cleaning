@@ -1,4 +1,4 @@
-# E-Commerce Data Cleaning and Preparation (Excel)
+# E-Commerce Data Cleaning and Preparation Using Microsoft Excel
 
 ## Project Overview
 
